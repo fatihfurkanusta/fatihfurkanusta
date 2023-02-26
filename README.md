@@ -9,7 +9,7 @@
 - 🔭 I’m currently working and learning on Backend Web Development.  
   
 
-- 🌱 My dream is become a Back-End Developer.  
+- 🌱 My dream is to be a Back-End Developer.  
   
 
 
