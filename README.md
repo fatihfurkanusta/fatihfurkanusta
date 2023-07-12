@@ -32,8 +32,8 @@
 
 
 ### Connect With Me 
-<a href="https://trailblazer.me/id/fatihfurkanusta" target="blank"><img align="center" src="https://ui.trailhead.com/profile/v1.5.0/images/trailblazer-me.svg" alt="fatihfurkanusta" height="30" width="40" /></a> 
 <div align="center">
+<a href="https://trailblazer.me/id/fatihfurkanusta" target="blank"><img align="center" src="https://ui.trailhead.com/profile/v1.5.0/images/trailblazer-me.svg" alt="fatihfurkanusta" height="30" width="40" /></a> 
 <a href="https://linkedin.com/in/fathfurkn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fathfurkn" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/fatihfurkan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="fatihfurkan" height="30" width="40" /></a>
 <a href="https://medium.com/fatihfurkanusta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="fatihfurkanusta" height="30" width="40" /></a>
