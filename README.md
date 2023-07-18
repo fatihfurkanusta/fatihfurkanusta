@@ -6,10 +6,8 @@
 ### I'm Furkan. I'm on my way to becoming a software developer. 👨‍💻   
   
 
-- 🔭 I’m currently working and learning on Salesforce.  
+- 🔭 I’m currently working and learning on Salesforce and Backend Developer.  
   
-
-- 🌱 My dream is to be a Salesforce Developer.  
   
 
 
