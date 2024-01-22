@@ -3,12 +3,8 @@
 </div>  
   
 
-### I'm Furkan. I'm on my way to becoming a software developer. 👨‍💻   
-  
+### I'm Furkan. I'm a Salesforce Developer. 👨‍💻   
 
-- 🔭 I’m currently working and learning on Salesforce and Backend Developer.  
-  
-  
 
 
 
